@@ -1,0 +1,89 @@
+WEBVTT
+
+00:00:00.800 --> 00:00:06.960
+Hello everyone! I am presenting our paper “Embracing Embodied Social Cognition in AI: Moving Away from
+
+00:00:06.960 --> 00:00:08.960
+Computational Theory of Mind.”
+
+00:00:09.932 --> 00:00:18.720
+Social cognition enables us to understand and interact with others and ourselves; in the context of AI, this translates to the development of systems that can not only
+
+00:00:18.720 --> 00:00:23.560
+process information but also understand and adapt to the social context of their interactions with humans.
+
+00:00:25.129 --> 00:00:31.000
+The integration of social cognition into AI draws from seminal works. Newell’s “Bands of Cognition”
+
+00:00:31.000 --> 00:00:35.800
+presents a multi-layered cognitive framework emphasizing that social cognition is complex
+
+00:00:35.800 --> 00:00:42.200
+and formulated over time. Minsky’s “Society of Mind” and Brooks’ Subsumption Architecture suggest that
+
+00:00:42.200 --> 00:00:47.200
+complex social understanding in AI could emerge from the collaboration of specialized agents or
+
+00:00:47.200 --> 00:00:52.280
+through interaction-focused behaviors. These foundational theories collectively underline
+
+00:00:52.280 --> 00:00:55.323
+the complexity of embedding social cognition 
+in AI.
+
+00:00:56.689 --> 00:01:03.800
+The prevalent computational approach to incorporating social cognition in AI is based on the Theory of Mind (ToM). According to ToM,
+
+00:01:03.800 --> 00:01:08.760
+an individual can make inferences about others’ mental states in a social situation by
+
+00:01:08.760 --> 00:01:14.360
+observation and act accordingly. Over the years, various approaches have been developed to create
+
+00:01:14.360 --> 00:01:17.019
+developed to create AI systems with artificial ToM.
+
+00:01:17.985 --> 00:01:28.320
+However, ToM has limitations. It views the mind as isolated, inferring others’ states solely through observation and neglecting the dynamic,
+
+00:01:28.320 --> 00:01:35.615
+interactive nature of social cognition. Crucially, it overlooks the importance of social physical embodiment in these processes.
+
+00:01:37.081 --> 00:01:42.520
+We propose an alternative, focusing on embodied socio-cognitive theories, especially
+
+00:01:42.520 --> 00:01:48.280
+Participatory Sensemaking (PSM). PSM emphasizes the emergence of new understanding and sensemaking
+
+00:01:48.280 --> 00:01:54.560
+through interaction, something individual cognition cannot achieve alone. Similarly,
+
+00:01:54.560 --> 00:01:59.840
+Observable Creative Sensemaking (OCSM) provides measurable, observable parameters—participation, newness, and appropriateness—
+
+00:02:00.560 --> 00:02:04.276
+that can guide AI in responding to the nuances of social interactions.
+
+00:02:05.676 --> 00:02:13.560
+Let us look at a speculative case study of text-to-image AI like Midjourney that can utilize social cognition via OCSM
+
+00:02:13.560 --> 00:02:19.680
+to enhance functionality, divided into three phases: First, in Prompt Understanding, Midjourney applies
+
+00:02:19.680 --> 00:02:26.080
+OCSM to assess ‘Newness’ and ‘Appropriateness’ in user prompts to grasp creative goals.
+
+00:02:26.080 --> 00:02:31.120
+Next, it analyzes these aspects during Adaptive Image Generation and converses with users to tailor
+
+00:02:31.120 --> 00:02:37.280
+outputs to their changing creative visions. Finally, the Interactive Feedback Loop continuously updates
+
+00:02:37.280 --> 00:02:43.080
+its comprehension based on user feedback, offering diverse image options. This iterative, communicative
+
+00:02:43.080 --> 00:02:47.368
+process fosters better sensemaking and enriches the co-creative experience.
+
+00:02:49.001 --> 00:02:55.600
+Please refer to our paper for more details and a case study of our ongoing project, LuminAI. Thank you for listening.
